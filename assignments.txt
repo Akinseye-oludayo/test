@@ -14,3 +14,4 @@ task1: try to explore jenkins environment
 task2: try to create simple pipeline for java
 
 WE DID NOT HAD A SESSION TODAY
+My Pipeline works and I am confident, God will see me through
