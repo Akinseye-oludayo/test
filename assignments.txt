@@ -12,3 +12,5 @@ task3: explore jenkins and other settings
 6 jan 24
 task1: try to explore jenkins environment
 task2: try to create simple pipeline for java
+
+WE DID NOT HAD A SESSION TODAY
