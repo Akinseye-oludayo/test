@@ -13,7 +13,6 @@ task3: explore jenkins and other settings
 task1: try to explore jenkins environment
 task2: try to create simple pipeline for java
 
-There is need to learn more about Devops
-I ma getting a remote DevOps job from Uk and USA soon that pays in hundred of thousands.
+I will get a remote DevOps job from Uk and USA soon that pays in hundreds of thousands.
 
 
